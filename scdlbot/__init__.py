@@ -2,6 +2,6 @@
 
 """Top-level package for Music Downloader Telegram Bot."""
 
-__author__ = """George Pchelkin"""
-__email__ = "george@pchelk.in"
+__author__ = """LiqWid"""
+__email__ = "fileshomegroup@gmail.com"
 __version__ = "0.13.7"
