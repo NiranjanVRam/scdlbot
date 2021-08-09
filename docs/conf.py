@@ -29,8 +29,8 @@ def _get_project_meta():
 
 pkg_meta = _get_project_meta()
 project = str(pkg_meta['name'])
-copyright = '2020, gpchelkin'  # noqa: A001  # skipcq: PYL-W0622
-author = 'gpchelkin'
+copyright = '2020, liqwid_x'  # noqa: A001  # skipcq: PYL-W0622
+author = 'liqwid_x'
 
 # The short X.Y version
 version = str(pkg_meta['version'])
